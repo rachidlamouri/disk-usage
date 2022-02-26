@@ -1,4 +1,8 @@
-# disk-usage
+# Disk Usage
+
+Aggregates disk usage statistics into a file, and presents a CLI for viewing the results.
+
+Developed on Windows 10.
 
 ```bash
   # 1. run in a folder to get usage
